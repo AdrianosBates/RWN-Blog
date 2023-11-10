@@ -1,18 +1,11 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Keycaps (Resin)
+subtitle: Check out our selection of nature-inspired keycaps, available in Row 1 (esc) OEM and SA profiles for MX cross-style switches.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Resin keycaps including moss and flowers
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Keycaps (Resin)
+  subtitle: Delicately suspended beauty  
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-

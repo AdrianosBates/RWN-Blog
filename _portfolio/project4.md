@@ -1,18 +1,11 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Goddesses
+subtitle: A seductive suspension of nature in a captivating form.
 image: assets/img/portfolio/04-full.jpg
-alt: 
+alt: Resin goddess sculpture
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Goddesses
+  subtitle: Nature's seductive beauty
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
