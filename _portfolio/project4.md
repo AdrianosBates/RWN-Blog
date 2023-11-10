@@ -1,7 +1,7 @@
 ---
 title: Goddesses
 subtitle: A seductive suspension of nature in a captivating form.
-image: assets/img/portfolio/04-full-new.jpg
+image: assets/img/portfolio/04-full-new-scaled.jpg
 alt: Resin goddess sculpture
 
 caption:

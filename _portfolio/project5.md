@@ -1,7 +1,7 @@
 ---
 title: Jewelry Boxes
 subtitle: Unique and eye-catching storage for all of our products
-image: assets/img/portfolio/05-full-new.jpg
+image: assets/img/portfolio/05-full-new-scaled.jpg
 alt: Resin jewelry box
 
 caption:

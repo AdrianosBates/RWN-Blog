@@ -1,7 +1,7 @@
 ---
 title: Earrings and Necklaces
 subtitle: We have a large array of hand-crafted jewelry you won't find anywhere else.
-image: assets/img/portfolio/06-full-new.jpg
+image: assets/img/portfolio/06-full-new-scaled.jpg
 alt: Moss-in-a-bottle earrings
 
 caption:

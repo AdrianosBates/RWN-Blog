@@ -1,7 +1,7 @@
 ---
 title: Keycaps (3D-Printed)
 subtitle: Check out our selection of unique, budget-friendly 3D-printed keycaps.
-image: assets/img/portfolio/03-full-new.jpg
+image: assets/img/portfolio/03-full-new-scaled.jpg
 alt: Mushroom-shaped keycap
 
 caption:

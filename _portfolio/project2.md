@@ -1,7 +1,7 @@
 ---
 title: Spacebars
 subtitle: Check out our selection of extra-premium nature-inspired 6.25u OEM spacebars.
-image: assets/img/portfolio/02-full-new.jpg
+image: assets/img/portfolio/02-full-new-scaled.jpg
 alt: Resin spacebar including moss and flowers
 
 caption:
