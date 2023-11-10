@@ -23,8 +23,8 @@ description: "Nature-inspired art and accessories, handmade in Maine."
 author     : Resinating With Nature
 
 logo:     #optional, defaults to site title
-  path: assets\img\logo.png
-  height: 75 #height in px, defaults to 52px
+  path: assets\img\ResinatingWithNatureLogoThumb.png
+  height: 65 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
